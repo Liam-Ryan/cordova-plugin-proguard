@@ -137,7 +137,7 @@
 
 ## NOTE: Should be actual project package name
 
--keep class com.cr2.mobile.BuildConfig { *; }
+-keep class com.cr2.BankWorld.BuildConfig { *; }
 
 ## https://stackoverflow.com/questions/45938239/cordova-and-proguard-camera-plugin-npe-on-takepicture
 
